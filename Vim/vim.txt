@@ -3,3 +3,14 @@
 https://github.com/amix/vimrc - star 3,482 ; Fork 1,203
 https://github.com/humiaozuzu/dot-vimrc - star 781 ; Fork 304
 https://github.com/spf13/spf13-vim - star 5,287 ; Fork 1,593
+
+
+vundle：
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+
+YouCompleteMe：
+https://github.com/Valloric/YouCompleteMe#ubuntu-linux-x64-super-quick-installation
+git clone https://github.com/Valloric/YouCompleteMe.git
+
+YouCompleteMe clone 下来后看系统安装 python2.7-dev没。必须要装。
+
